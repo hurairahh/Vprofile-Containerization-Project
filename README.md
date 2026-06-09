@@ -59,7 +59,7 @@ To run this project locally, ensure you have the following installed on your hos
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone
    cd vprofile-project-docker
    ```
 
