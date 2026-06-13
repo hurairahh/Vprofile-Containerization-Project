@@ -3,7 +3,7 @@
 Welcome to the **VProfile** containerization project! This project demonstrates the modern deployment of a multi-tier Java Spring MVC web application using containerization technologies (Docker, Docker Compose) as well as continuous integration workflows.
 
 ## 📌 Project Overview
-VProfile is a social networking web application. The core objective of this project is to take a traditional multi-tier architectural stack and containerize all of its components for streamlined deployment, scaling, and platform independence.
+VProfile is a social networking web application. The core objective of this project is to take a traditional multi-tier architectural stack and containerize all of its components for streamlined deployment, scaling, and platform independence. 
 
 ## 🏗️ Architecture Stack & Container Design
 The application is structured into a total of **5 containers**, operating together to deliver the web platform:
