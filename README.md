@@ -7,7 +7,7 @@ VProfile is a social networking web application. The core objective of this proj
 
 ## 🏗️ Architecture Stack & Container Design
 The application is structured into a total of **5 containers**, operating together to deliver the web platform:
-
+ 
 ### Custom Built Images (from Dockerfiles)
 We have created DockerHub repositories for the following custom components (`app`, `db`, `web`) which are built locally using provided `Dockerfiles`:
 - **Nginx (`web` image)**: Reverse proxy and load balancer built through a Dockerfile, routing incoming user requests to the backend application server.
