@@ -1,4 +1,4 @@
-# VProfile Containerization Project
+# VProfile Containerization Project 
 
 Welcome to the **VProfile** containerization project! This project demonstrates the modern deployment of a multi-tier Java Spring MVC web application using containerization technologies (Docker, Docker Compose) as well as continuous integration workflows.
 
